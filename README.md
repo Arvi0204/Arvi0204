@@ -23,7 +23,7 @@ Outside engineering, I am a competitive chess player (2100+ Chess.com rating), c
   An accessible, voice-driven platform combining online multiplayer play, chess engine analysis, blindfold training, and natural spoken move execution.  
   `TypeScript` · `Web Speech API` · `Full-Stack`
 
-* **[PassHaven](https://github.com/Arvi0204/PassHaven-Frontend)**  
+* **[PassDrop](https://github.com/Arvi0204/PassDrop)**  
   *Full-Stack Secure Credential & Password Manager*  
   Modern credential management suite with encrypted vault storage, complete CRUD operations, and an autofill browser extension.  
   `React` · `Vite` · `Tailwind CSS` · `Express` · `MongoDB`
